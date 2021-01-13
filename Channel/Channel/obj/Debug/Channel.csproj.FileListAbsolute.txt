@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\bin\Debug\Channel.exe.config
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\bin\Debug\Channel.exe
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\bin\Debug\Channel.pdb
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.Form1.resources
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.exe
+C:\Users\Asus\Desktop\Projeler\Channel\Channel\obj\Debug\Channel.pdb

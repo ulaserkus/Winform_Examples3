@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\bin\Debug\Selection.exe.config
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\bin\Debug\Selection.exe
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\bin\Debug\Selection.pdb
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.Form_Selection.resources
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.Form_Grafikler.resources
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.exe
+C:\Users\Asus\Desktop\Projeler\Selection\Selection\obj\Debug\Selection.pdb
