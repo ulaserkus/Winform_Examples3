@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\bin\Debug\ChangeOffice.exe.config
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\bin\Debug\ChangeOffice.exe
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\bin\Debug\ChangeOffice.pdb
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.Form1.resources
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.exe
+C:\Users\Asus\Desktop\Projeler\ChangeOffice\ChangeOffice\obj\Debug\ChangeOffice.pdb
